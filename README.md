@@ -34,8 +34,8 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
      <a href="#"><img alt="WAMP" src="https://img.shields.io/badge/Wamp-092E20?style=for-the-badge&logo=wamp&logoColor=white"></a>
-
-</p>
+      <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/xampp-092E20?style=for-the-badge&logo=xampp&logoColor=white"></a>
+/p>
 
 ### 🗄️ Databases and Cloud Hosting
 
