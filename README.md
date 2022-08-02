@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td align="center">
-<img alt="" width="400" src="https://github.com/saurabhsinghaniyas" alt=""></img>
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
 </td>
 <td align="center">
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
