@@ -3,7 +3,7 @@ I-am-Saurabh Singh ****
 💻 I am a self taught Cloud Administrator and a Full stack Developer.</br>
 📚 I have a Bachelors and Masters in Computer Application from the Uttar Pradesh Technical University at India.</br>
 📝 I have a strong interest in Data Science and Cybersecurity.</br>
-🔭 Working on AWS and Azure Cloud along with HackerRank.
+🔭 Working on AWS and Azure Cloud along with HackerRank.</br>
 🌱 Learning about Cloud Computing ,Cybersecurity and data Engineering Stuff.</br>
 🌟 Main languages: Python,JavaScript.</br>
 🚩 Interested in Securing and Managing All Cloud Infra.</br>
@@ -68,9 +68,9 @@ I-am-Saurabh Singh ****
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about AWS and Azure cloud, feel free to <a href="mailto:saurabhs91621@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on  <a href="https://www.linkedin.com/in/saurabh-singh-7520ba1bb/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
@@ -87,9 +87,8 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 </table>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
-
+Credits: [I-am-saurabh-singh](https://github.com/saurabhsinghaniyas)
+Last Edited On: 02/08/2022
 
 
 
