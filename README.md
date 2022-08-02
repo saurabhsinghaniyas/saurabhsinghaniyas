@@ -1,14 +1,14 @@
-I-am-Saurabh Singh
+I-am-Saurabh Singh ****
 -------------------------
-💻 I am a self taught Full Cloud Administrator and a Full stack Developer.</br>
-📚 I have a Bachelors and Masters in Computer Application from the Uttar Pradesh Technical Universirty at India
-📝 I have a strong interest in Data Science and Cybersecurity.
+💻 I am a self taught Cloud Administrator and a Full stack Developer.</br>
+📚 I have a Bachelors and Masters in Computer Application from the Uttar Pradesh Technical University at India.</br>
+📝 I have a strong interest in Data Science and Cybersecurity.</br>
 🔭 Working on AWS and Azure Cloud along with HackerRank.
-🌱 Learning about Cloud Computing ,Cybersecurity and data Engineering Stuff.
-🌟 Main languages: Python,JavaScript.
-🚩 Interested in Securing and Managing All Cloud Infra.
-💖 In a complicated relationship with Cyber Security.
-🎵 Love to Listen 90,s Hindi Songs .
+🌱 Learning about Cloud Computing ,Cybersecurity and data Engineering Stuff.</br>
+🌟 Main languages: Python,JavaScript.</br>
+🚩 Interested in Securing and Managing All Cloud Infra.</br>
+💖 In a complicated relationship with Cyber Security.</br>
+🎵 Love to Listen 90,s Hindi Songs .</br>
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
