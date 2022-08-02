@@ -74,7 +74,7 @@
 
 If you have any questions about AWS and Azure cloud, feel free to <a href="mailto:saurabhs91621@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on  <a href="https://www.linkedin.com/in/saurabh-singh-7520ba1bb/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on  <a href="https://www.linkedin.com/in/saurabh-singh-7520ba1bb/">LinkedIn</a> to deploy your project on Cloud, or for Developing Your Web application..
 
   </td>
   <td width="50%" valign="top">
