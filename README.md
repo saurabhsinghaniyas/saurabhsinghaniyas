@@ -1,12 +1,12 @@
 **** Hii-Folks-I-am-Saurabh Singh ****
 -------------------------
-💻 I am a self taught Cloud Administrator and a Full stack Developer.</br>
+💻 I am a self taught IT Infra Specialist and DevOps Engineer.</br>
 📚 I have a Bachelors and Masters in Computer Application from the Uttar Pradesh Technical University at India.</br>
 📝 I have a strong interest in Data Science and Cybersecurity.</br>
-🔭 Working on AWS and Azure Cloud along with HackerRank.</br>
+🔭 Working on AWS and Azure Cloud along with On Premise.</br>
 🌱 Learning about Cloud Computing ,Cybersecurity and data Engineering Stuff.</br>
 🌟 Main languages: Python,JavaScript.</br>
-🚩 Interested in Securing and Managing All Cloud Infra.</br>
+🚩 Interested in Securing and Managing All Cloud and On Premise Infra.</br>
 💖 In a complicated relationship with Cyber Security.</br>
 🎵 Love to Listen 90,s Hindi Songs and Developing Wordpress and Shopify Websites.</br>
 
